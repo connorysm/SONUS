@@ -4,7 +4,7 @@ A generative system that converts audio input into audio motion, for sound to ge
 
 
 
-by Connor YS Matla
 
 Find out more:
 https://www.connorysmatla.art/sonus
+by Connor YS Matla
