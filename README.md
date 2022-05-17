@@ -40,8 +40,11 @@ Recordings of Space - NASA Voyager
 
 
 Find out more:
+
 https://www.connorysmatla.art/sonus
+
 https://vimeo.com/manage/videos/710874730
+
 https://vimeo.com/manage/videos/554814147
 
 by Connor YS Matla
