@@ -14,29 +14,25 @@ Built in TouchDesigner.
 ## AUDIO VISUALIZATIONS
 
 
-Jesus bleibet meine Freude - Bach
-![Jesus bleibet meine Freude - Bach](https://user-images.githubusercontent.com/60975534/168876330-19fcc391-982c-44e3-8e75-7a4881d18493.png)
-![Jesus bleibet meine Freude - Bach](https://user-images.githubusercontent.com/60975534/168873325-62c4424c-1f90-40f2-beb2-79665837b921.png)
-![Jesus bleibet meine Freude - Bach](https://user-images.githubusercontent.com/60975534/168875552-07028c17-6e8f-4365-b01b-1a6dc8c123ab.png)
-
-
 Human Breath
 ![Human Breath](https://user-images.githubusercontent.com/60975534/168876371-9134cee9-d133-4082-b619-2d3d52452c41.png)
 ![Human Breath](https://user-images.githubusercontent.com/60975534/168873490-8f4709c2-922b-4350-8b68-139fab99dab6.png)
 ![Human Breath](https://user-images.githubusercontent.com/60975534/168875563-8cc86924-198b-446f-a3e4-7811980e1c05.png)
 
 
+Thunder
+![INS thunder (1)](https://user-images.githubusercontent.com/60975534/169583815-889a6b8b-0f4f-4162-8c24-476ac6583fe5.png)
+![INS thunder 2](https://user-images.githubusercontent.com/60975534/169583818-998efd57-7448-453a-8a31-6a3a87de7418.png)
+
+
 Niagara Falls
-![Niagara Falls](https://user-images.githubusercontent.com/60975534/168876392-19e9320b-3d2b-494e-a7ae-4d32061b699d.png)
-![Niagara Falls](https://user-images.githubusercontent.com/60975534/168873589-5f852ed2-c78e-4946-b18d-602492f8fdd2.png)
-![Niagara Falls](https://user-images.githubusercontent.com/60975534/168875577-549c2599-c1c5-48d8-87fb-6805341b0d71.png)
+![INS niagara falls (1)](https://user-images.githubusercontent.com/60975534/169583741-7dd8ccf4-1003-45b6-8359-592218ac030e.png)
+![INS niagara falls 2](https://user-images.githubusercontent.com/60975534/169583743-d142c013-5fc9-4043-9dfc-234629575c48.png)
 
 
-Recordings of Space - NASA Voyager
-![NASA Voyager Recordings of Space](https://user-images.githubusercontent.com/60975534/168876411-15fcd19d-1be0-41d8-876d-04abc5714415.png)
-![NASA Voyager Recordings of Space](https://user-images.githubusercontent.com/60975534/168873383-05a19681-4aa0-4f20-a549-f699572d5946.png)
-![NASA Voyager Space Recordings](https://user-images.githubusercontent.com/60975534/168875586-4ae0f3c1-7bfd-4f69-a9b3-d6789e6e485f.png)
-
+Jesus bleibet meine Freude - Bach
+![INS jesu (1)](https://user-images.githubusercontent.com/60975534/169581324-0824e0b8-e808-446e-9e1d-69c449e87474.png)
+![INS jesu 2](https://user-images.githubusercontent.com/60975534/169581326-f2d117c4-87c1-43f6-9a37-8dc3ca3b7775.png)
 
 
 Find out more:
