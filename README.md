@@ -20,19 +20,12 @@ Human Breath
 ![Human Breath](https://user-images.githubusercontent.com/60975534/168875563-8cc86924-198b-446f-a3e4-7811980e1c05.png)
 
 
-Thunder
-![INS thunder (1)](https://user-images.githubusercontent.com/60975534/169583815-889a6b8b-0f4f-4162-8c24-476ac6583fe5.png)
-![INS thunder 2](https://user-images.githubusercontent.com/60975534/169583818-998efd57-7448-453a-8a31-6a3a87de7418.png)
+![INS1](https://user-images.githubusercontent.com/60975534/169583938-ea332846-7e6c-4c6b-b2c3-a6cdfbb93c36.png)
 
+![INS2](https://user-images.githubusercontent.com/60975534/169583956-905bf8db-5abf-4d10-8b5a-c1b9d30a15d3.png)
 
-Niagara Falls
-![INS niagara falls (1)](https://user-images.githubusercontent.com/60975534/169583741-7dd8ccf4-1003-45b6-8359-592218ac030e.png)
-![INS niagara falls 2](https://user-images.githubusercontent.com/60975534/169583743-d142c013-5fc9-4043-9dfc-234629575c48.png)
+![INS3](https://user-images.githubusercontent.com/60975534/169583940-53516be8-3333-45db-8226-9066f9882870.png)
 
-
-Jesus bleibet meine Freude - Bach
-![INS jesu (1)](https://user-images.githubusercontent.com/60975534/169581324-0824e0b8-e808-446e-9e1d-69c449e87474.png)
-![INS jesu 2](https://user-images.githubusercontent.com/60975534/169581326-f2d117c4-87c1-43f6-9a37-8dc3ca3b7775.png)
 
 
 Find out more:
